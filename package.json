@@ -1,7 +1,6 @@
 {
   "name": "vue-admin-innerken",
   "version": "1.2.1",
-  "private": true,
   "scripts": {
     "dev": "vue-cli-service serve --open",
     "serve": "vue-cli-service serve",
@@ -11,9 +10,6 @@
     "now-start": "vue-cli-service serve",
     "test:e2e": "vue-cli-service test:e2e",
     "test:unit": "vue-cli-service test:unit"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
     "axios": "^0.19.2",
