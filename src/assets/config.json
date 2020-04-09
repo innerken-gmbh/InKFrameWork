@@ -1,0 +1,22 @@
+{
+  "DefaultLocale": "en",
+  "supportLang": [
+    {
+      "lang": "zh",
+      "id": "1",
+      "name": ""
+    },
+    {
+      "lang": "en",
+      "id": "2",
+      "name": ""
+    },
+    {
+      "lang": "de",
+      "id": "3",
+      "name": ""
+    }
+  ],
+  "ServantImgRoot": "Resource/servantImg/",
+  "companyRoot": "https://innerken.com/iplogger/"
+}
