@@ -4,7 +4,7 @@
 A ready to use Backend Framework including Datatables and charts.
 ---
 
-Github Link
+Github Link:https://github.com/innerken-gmbh/InKFrameWork
 
 Developed by juhaodong@InnerKen
  
