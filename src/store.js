@@ -8,7 +8,6 @@ export default new Vuex.Store({
     barColor: 'rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)',
     barImage: 'https://demos.creative-tim.com/material-dashboard-pro/assets/img/sidebar-1.jpg',
     drawer: null,
-    url: 'http://staffmanagement.aaden.us/',
   },
   mutations: {
     SET_BAR_IMAGE (state, payload) {

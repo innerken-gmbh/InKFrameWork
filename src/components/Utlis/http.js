@@ -1,11 +1,10 @@
 import axios from 'axios'
-import GlobalSettings from '../Settings/GlobalSettings'
 import qs from 'qs'
 import Utils from './Utils'
 
 const instance = axios.create({ timeout: 1000 * 30 })
 instance.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded;charset=UTF-8'
-instance.defaults.baseURL = 'http://staffmanagement.aaden.us/' + GlobalSettings.endPoint
+instance.defaults.baseURL = ''
 
 /**
  * 请求失败后的错误统一处理
